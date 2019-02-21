@@ -3,7 +3,7 @@
  * This program divides two user-provided integers and converts the improper fraction into a mixed number
  * 
  * Last Modified: September 26 2016,
- * @author: Thomas "RadiantBytes" Lyanugh
+ * @author: Thomas Lyanugh
  */
 import java.util.Scanner;
 
